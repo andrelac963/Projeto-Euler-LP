@@ -24,15 +24,14 @@ Answer: 785478606870985
 
 ## Como executar
 
-### Prolog
-1. Instale o SWI-Prolog.
+### Python
+1. Instale o Python 3.x.
 2. Abra o terminal e navegue até o diretório do projeto.
 3. Execute o comando:
     ```sh
-    swipl
-    [euler].
+    python euler.py
 
-### Standard ML
+### SML
 1. Instale o SML/NJ.
 2. Abra o terminal e navegue até o diretório do projeto.
 3. Execute o comando
@@ -40,9 +39,10 @@ Answer: 785478606870985
     sml
     use "euler.sml";
 
-### Python
-1. Instale o Python 3.x.
+### Prolog
+1. Instale o SWI-Prolog.
 2. Abra o terminal e navegue até o diretório do projeto.
 3. Execute o comando:
     ```sh
-    python euler.py
+    swipl
+    [euler].
